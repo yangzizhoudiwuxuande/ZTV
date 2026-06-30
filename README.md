@@ -37,4 +37,4 @@ Users who want to upload videos, watch videos, and engage with video content.
 # Language Settings
 All text content, interface labels, and user interactions on the site will be in English.
 
-*ZTV International was built by Miaoda AI (www.miaoda.cn), and there is an offical site of ZTV International (https://app-9v9ce4sn4iyp.appmiaoda.com)*
+*ZTV International was built by [Miaoda AI](www.miaoda.cn), and there is an offical site of [ZTV International](https://app-9v9ce4sn4iyp.appmiaoda.com).*
