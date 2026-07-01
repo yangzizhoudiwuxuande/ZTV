@@ -1,3 +1,8 @@
+请点击[这里](https://github.com/yangzizhoudiwuxuande/ZTV/blob/main/READMECN.md)来查看中文（中国大陆简体）版本。
+
+请点击[这里](https://github.com/yangzizhoudiwuxuande/ZTV/blob/main/READMETW.md)來查看中文（臺湾繁體）版本。
+
+请点击[这里](https://github.com/yangzizhoudiwuxuande/ZTV/blob/main/READMEHK.md)來查看中文（香港繁體）版本。
 # Intro
 ## Name
 ZTV International
